@@ -1,0 +1,116 @@
+body {
+    background: transparent url('img/Halftone.png') 0% 0% no-repeat padding-box;
+    margin: 0px;
+    
+    
+}
+
+
+
+.inner-box{
+    width: 528px;
+    height: 654px;
+    background: transparent url('img/Halftone.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF1A;
+    display: flex;
+    justify-content: center;
+    padding: 6px;
+    flex-direction: column;
+    border-radius: 8%;
+    background-color:black;
+    margin-left: -5%;
+    
+}
+
+.outer-box {
+    display: flex;
+    justify-content: center;
+    padding-top: 178px; 
+    background: transparent url('img/Halftone.png') 0% 0% no-repeat padding-box;
+
+
+    
+}
+
+
+.logo1 {
+    width: 81px;
+    height: 76px;
+    margin-left: 42%;
+    margin-bottom: 22%
+    
+}
+
+
+.fpassword1 {
+text-align: center;
+font: normal normal medium 22px/30px Brandon Grotesque;
+letter-spacing: 0px;
+color: #9399A3;
+opacity: 1;
+margin-left: 65%;
+font-size: 17px;
+
+}
+    
+#email {
+    font-size: 20px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;  
+    border: 1px solid #FFFFFF29;
+border-radius: 8px;
+opacity: 0.7;
+width: 424px;
+height: 64px;
+margin-left: 10%;
+
+}
+
+#password {
+font-size: 20px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #FFFFFF29;
+border-radius: 8px;
+opacity: 0.7;
+width: 424px;
+height: 64px;
+margin-left: 10%;
+}
+
+button {
+    
+    width: 424px;
+    height: 64px;
+    background-color: #691AFD;
+    color: white;
+    border-radius: 8px;
+    background: #691AFD 0% 0% no-repeat padding-box;
+    border-color: #691AFD;
+    margin-top: 10px;
+    font: normal normal bold 24px/32px Brandon Grotesque;
+    border-radius: 8px;
+    margin-left: 10%;
+
+
+}
+
+.signin1 {
+font-size: 30px;
+ text-align: center;
+font: normal normal bold 22px/30px Brandon Grotesque;
+letter-spacing: 0px;
+color: #9399A3;
+opacity: 1;
+padding-left: 38%;
+
+
+
+}
+
+
+
+
+
+
+
+
+
